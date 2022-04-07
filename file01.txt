@@ -1,2 +1,8 @@
 edited santiago
 este es un primer archivo.
+<<<<<<< HEAD
+=======
+segundo linea al archivo 1
+edited santiago
+
+>>>>>>> ec1fee4400df4ef7834802ef818baf7fe79902c0
