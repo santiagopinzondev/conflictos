@@ -1,1 +1,2 @@
 este es un segundo archivo.
+segundo linea al archivo 2
